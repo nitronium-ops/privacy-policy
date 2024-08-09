@@ -1,4 +1,5 @@
 Privacy Policy
+
 Effective Date: 09-08-24
 
 1. Introduction
