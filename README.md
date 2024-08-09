@@ -23,4 +23,4 @@ We may update this Privacy Policy from time to time. If there are any changes, w
 
 6. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us (here)[nitriumDev@gmail.com].
+If you have any questions or concerns about this Privacy Policy, please contact us [here](nitriumDev@gmail.com).
